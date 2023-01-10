@@ -1,0 +1,29 @@
+.remove-button {
+  background: #1f1f2f;
+  color: #cbd5e1;
+  border: 1px solid #94a3b8;
+  outline: none;
+  font-family: Roboto;
+  font-size: 10px;
+  padding: 2px;
+}
+
+.country-image {
+  width: 150px;
+  height: 100px;
+}
+
+.item-button-container {
+  margin-top: -5px;
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #cbd5e1;
+  margin-right: 50px;
+}
+
+.item-name {
+  font-family: Roboto;
+  font-size: 10px;
+}

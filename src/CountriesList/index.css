@@ -1,0 +1,30 @@
+.country-list-item {
+  border-bottom: 0.5px solid #334155;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #cbd5e1;
+  margin-left: -40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.visit-button {
+  background: #3b82f6;
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  font-family: Roboto;
+  font-size: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.visited-text {
+  margin-right: 15px;
+  font-family: Roboto;
+  font-size: 10px;
+  color: #94a3b8;
+}
